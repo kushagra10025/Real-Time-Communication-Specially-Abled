@@ -8,6 +8,8 @@ Artificial Intelligence has made it possible to handle our daily activities in n
 
 Currently, Sign Recognition is available __only for alphabets A-I__ and not for J-Z, since J-Z alphabets also require Gesture Recognition for them to be able to be predicted correctly to a certain degree of accuracy.
 
+> __IMP NOTE:__ Due to GitHub Upload Limit Error h5 files have been uploaded as Zip in the repository. Alternatively the can be found at the following link : [H5 Model Download Link](https://drive.google.com/drive/folders/17gfBJTRX2hhtoWDzQjAeXD6DYc6U-hBu?usp=sharing)
+
 ## Demonstration Video
 
 Find the Demo Video [Here](https://www.youtube.com/watch?v=X1ZXAFHIKHc) or [https://www.youtube.com/watch?v=X1ZXAFHIKHc](https://www.youtube.com/watch?v=X1ZXAFHIKHc)
@@ -15,16 +17,16 @@ Find the Demo Video [Here](https://www.youtube.com/watch?v=X1ZXAFHIKHc) or [http
 ## Screenshots
 
 > Screenshot A
-![Output A](Output_Screenshots\A.png "Screenshot A")
+![Output A](https://github.com/smartinternz02/SI-GuidedProject-49276-1652763156/blob/main/Output_Screenshots/A.png?raw=true "Screenshot A")
 
 > Screenshot B
-![Output B](Output_Screenshots\B.png "Screenshot B")
+![Output B](https://github.com/smartinternz02/SI-GuidedProject-49276-1652763156/blob/main/Output_Screenshots/B.png?raw=true "Screenshot B")
 
 > Screenshot C
-![Output C](Output_Screenshots\C.png "Screenshot C")
+![Output C](https://github.com/smartinternz02/SI-GuidedProject-49276-1652763156/blob/main/Output_Screenshots/C.png?raw=true "Screenshot C")
 
 > Screenshot D
-![Output D](Output_Screenshots\D.png "Screenshot D")
+![Output D](https://github.com/smartinternz02/SI-GuidedProject-49276-1652763156/blob/main/Output_Screenshots/D.png?raw=true "Screenshot D")
 
 others can be found in ```Output_Screenshots folder```
 
