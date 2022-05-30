@@ -1,0 +1,4 @@
+# As h5 files are above 100 MB and unable to be uploaded through GIT-LFS
+# They have been zipped under 100MB and uploaded as normal binary files
+
+*.h5
